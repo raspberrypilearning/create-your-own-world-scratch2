@@ -1,14 +1,10 @@
-# create-your-own-world-scratch2
+# Create your own world
 
-![create-your-own-world-scratch2](banner.png)
+In this resource, you are going to learn how to make a racing game. The player uses the mouse to navigate a boat to a desert island without bumping into obstacles.
 
-Find the project online at [projects.raspberrypi.org/en/projects/create-your-own-world-scratch2](https://projects.raspberrypi.org/en/projects/create-your-own-world-scratch2)
+This repository contains the content for the Create your own world Raspberry Pi project. This project can be viewed at:
 
-## Resources
-For solutions and project materials, see [en/resources](https://github.com/raspberrypilearning/create-your-own-world-scratch2/tree/master/en/resources)
+https://projects.raspberrypi.org/en/projects/create-your-own-world-scratch2 
 
-## Contributing
-See [CONTRIBUTING.md](CONTRIBUTING.md)
+See [LICENCE.md](LICENCE.md) for the project licence, and [CONTRIBUTING.md](CONTRIBUTING.md) for guidance on how to contribute.
 
-## Licence
- See [LICENSE.md](LICENSE.md)
