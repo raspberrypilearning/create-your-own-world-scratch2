@@ -37,11 +37,11 @@ title: What you will need
 
 ### Software
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratch-new){:target="_blank"} or [offline](http://rpf.io/scratch-off){:target="_blank"})
++ Scratch 2.0 [offline](http://rpf.io/scratch-off){:target="_blank"}
  
 ### Downloads
 
-You can find everything you need to complete this project at [rpf.io/p/create-your-own-world/go](rpf.io/p/create-your-own-world/go).
+You can find everything you need to complete this project at [rpf.io/p/en/create-your-own-world/go](https://rpf.io/p/en/create-your-own-world-scratch2-go).
 
 --- /collapse ---
 
@@ -62,7 +62,7 @@ title: Additional information for educators
 ---
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/create-your-own-world-scratch2/print){:target="_blank"}.
 
-You can find the solutions to this project at [rpf.io/p/create-your-own-world/get](rpf.io/p/create-your-own-world/get).
+You can find the solutions to this project at [rpf.io/p/en/create-your-own-world-scratch2-get](https://rpf.io/p/en/create-your-own-world-scratch2-get).
 
 --- /collapse ---
 
