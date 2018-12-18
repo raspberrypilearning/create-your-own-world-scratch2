@@ -41,7 +41,7 @@ title: What you will need
  
 ### Downloads
 
-You can find everything you need to complete this project at [rpf.io/p/en/create-your-own-world/go](https://rpf.io/p/en/create-your-own-world-scratch2-go).
+You can find everything you need to complete this project at [rpf.io/p/en/create-your-own-world-scratch2-go](https://rpf.io/p/en/create-your-own-world-scratch2-go).
 
 --- /collapse ---
 
