@@ -9,12 +9,12 @@ Add a new variable valled `coins`{:class="blockdata"} to your project.
 --- task ---
 Right-click on the `coin` sprite and choose **show**.
 
-![screenshot](images/coins.png)
+![screenshot](images/coin.png)
 --- /task ---
 
 --- task ---
 Add code to your `coin` sprite so that it only appears in room 1.
-![screenshot](images/coins.png)
+![screenshot](images/coin.png)
 ![blocks_1545216541_9994059](images/blocks_1545216541_9994059.png)
 --- /task ---
 
