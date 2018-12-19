@@ -54,7 +54,7 @@ forever
 		point in direction (0)
 		move (4) steps
 	end
-	+if <key [left arrow v] pressed? > then
++	if <key [left arrow v] pressed? > then
 		point in direction (-90)
 		move (4) steps
 	end
