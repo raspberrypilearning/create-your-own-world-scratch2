@@ -15,14 +15,7 @@ Right-click on the `coin` sprite and choose **show**.
 --- task ---
 Add code to your `coin` sprite so that it only appears in room 1.
 ![screenshot](images/coins.png)
-```blocks
-when flag clicked
-forever
-if <(room)=[1]> then
-show
-else
-hide
-```
+![blocks_1545216541_9994059](images/blocks_1545216541_9994059.png)
 --- /task ---
 
 
@@ -32,13 +25,7 @@ Add code to your `coin` sprite so that the sprite `hides`{:class="blocklooks"} a
 
 ![coin](images/coin.png)
 
-```blocks
-when flag clicked
-wait until <touching [player v]?>
-change [coins v] by (1)
-hide
-stop [other scripts in sprite v]
-```
+![blocks_1545216543_8674862](images/blocks_1545216543_8674862.png)
 
 The code `stop other scripts in sprite`{:class="blockcontrol"} is needed so that the `coin` sprite stops being displayed in room 1 once it's been collected.
 
@@ -48,10 +35,7 @@ The code `stop other scripts in sprite`{:class="blockcontrol"} is needed so that
 Now add code to the Stage to set your `coins`{:class="blockdata"} variable to `0`{:class="blockdata"} at the start of the game.
 
 ![stage](images/stage.png)
-```blocks
-when flag clicked
-set [coins v] to [0]
-```
+![blocks_1545216544_945433](images/blocks_1545216544_945433.png)
 --- /task ---
 
 --- task ---
