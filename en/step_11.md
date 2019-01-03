@@ -32,13 +32,13 @@ The code you need to add for collecting the key is very similar to the code for 
 
 ![key](images/key.png)
 
-![blocks_1545216546_0844707](images/blocks_1545216546_0844707.png)
+![blocks_1546523765_599872](images/blocks_1546523765_599872.png)
 --- /task ---
 
 --- task ---
 Add code to your Stage to empty your inventory at the start of the game.
 
-![blocks_1545216547_237397](images/blocks_1545216547_237397.png)
+![blocks_1546523767_2075996](images/blocks_1546523767_2075996.png)
 
 --- /task ---
 
@@ -61,7 +61,7 @@ Add code to the `door-blue` sprite so that, when the key is in the `inventory`{:
 
 ![door](images/door.png)
 
-![blocks_1545216548_3552425](images/blocks_1545216548_3552425.png)
+![blocks_1546523768_773816](images/blocks_1546523768_773816.png)
 --- /task ---
 
 --- task ---

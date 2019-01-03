@@ -21,7 +21,7 @@ Add this code to the `player` sprite:
 
 ![player](images/player.png)
 
-![blocks_1545216550_7188075](images/blocks_1545216550_7188075.png)
+![blocks_1546523772_0951335](images/blocks_1546523772_0951335.png)
 
 --- /task ---
 
@@ -39,7 +39,7 @@ To move the `player` sprite to the left, you need to add another `if`{:class="bl
 
 ![player](images/player.png)
 
-![blocks_1545216551_8288684](images/blocks_1545216551_8288684.png)
+![blocks_1546523773_6702065](images/blocks_1546523773_6702065.png)
 
 --- /task ---
 
@@ -63,7 +63,7 @@ You need to change these two blocks:
 
 ![player](images/player.png)
 
-![blocks_1545216552_9610329](images/blocks_1545216552_9610329.png)
+![blocks_1546523775_279332](images/blocks_1546523775_279332.png)
 
 Duplicate the code that makes the `player` sprite move upwards, and change these two blocks to make the sprite move down. Duplicate the code again, and change it to make the sprite move to the right.
 
@@ -73,7 +73,7 @@ Here is how your code should look:
 
 ![player](images/player.png)
 
-![blocks_1545216554_068481](images/blocks_1545216554_068481.png)
+![blocks_1546523776_928225](images/blocks_1546523776_928225.png)
 --- /hint ---
 --- /hints ---
 
