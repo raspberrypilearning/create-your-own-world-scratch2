@@ -13,7 +13,7 @@ Add some code to the `person` sprite so that the person talks to the `player` sp
 
 ![person](images/person.png)
 
-![blocks_1545216563_359511](images/blocks_1545216563_359511.png)
+![blocks_1546523791_1418316](images/blocks_1546523791_1418316.png)
 --- /task ---
 
 --- task ---
@@ -21,7 +21,7 @@ Allow your `person` sprite to move by adding these two blocks in the `else`{:cla
 
 ![person](images/person.png)
 
-![blocks_1545216564_517521](images/blocks_1545216564_517521.png)
+![blocks_1546523792_81964](images/blocks_1546523792_81964.png)
 --- /task ---
 
 Your `person` sprite will now move, but will stop to talk to the `player` sprite.
